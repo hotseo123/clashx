@@ -1,4 +1,4 @@
-### 2025 Mac ClashX详细教程  
+### 2025 最新Mac ClashX详细教程  
 
 [ClashX](https://clashx.cc/)是一款基于 Clash 内核开发的代理管理工具，专为 macOS 用户设计，以灵活的规则分流、全面的协议支持以及简单直观的操作而闻名。无论是网络优化、提升访问速度，还是保障隐私，ClashX 都是不可或缺的工具。本文将为您详细讲解 ClashX 的安装、配置、功能及常见问题解决方法，帮助您全面掌握其使用技巧。
 
@@ -33,7 +33,9 @@ ClashX 是基于 Go 语言开发的 Clash 内核的 macOS 图形化客户端。�
 ##### **3. 导入订阅链接**  
 1. 点击菜单栏中的 ClashX 图标，选择 `Configurations` -> `Import From URL`。  
 2. 在弹出的窗口中粘贴您的订阅链接，点击确认。  
-3. 导入成功后，节点和规则会自动更新。  
+3. 导入成功后，节点和规则会自动更新。
+
+如果你正在寻找一款靠谱的机场服务，这里推荐[一枝红杏加速器](https://order.yizhihongxing.club/aff.php?aff=17788)，6年+老牌机场，值得信赖！
 
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/c01a411e-9914-4a29-86d3-be9b688fdaf1" />
 
